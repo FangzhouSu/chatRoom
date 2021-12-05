@@ -6,7 +6,7 @@ const socketIO = require('socket.io')
 
 const hostname = '127.0.0.1'
 const port = 3000
-const publicPath = path.join(__dirname, 'public')
+const publicPath = path.join(__dirname, 'docs')
 
 // 1.使用socket.io配合koa启动带有websocket的服务
 // 创建Koa实例
