@@ -17,6 +17,12 @@
 
 [项目仓库](https://github.com/FangzhouSu/chatRoom)
 
+> 21/12/7
+>
+> [这个接口](https://netease.im/im?from=bdjj20200433807)感觉不错？
+>
+> ![image-20211207194633731](https://gitee.com/su-fangzhou/blog-image/raw/master/202112071946951.png)
+
 ## 运行方法
 
 因为使用了`.gitignore`忽略了`node_modules`所以先使用`npm install`安装相关依赖（主要是服务端用到了Koa和socket.io）
