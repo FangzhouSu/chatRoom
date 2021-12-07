@@ -43,7 +43,7 @@
 
 <hr>
 
-## [官方提示](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#%E4%B8%BB%E5%8A%A8%E5%AD%A6%E4%B9%A0_%E4%B8%80%E4%B8%AA%E5%8A%A8%E6%80%81%E7%9A%84%E8%B4%AD%E7%89%A9%E5%8D%95)
+## 官方提示
 
 - 先做好简单的对话界面
   - 推荐使用flex布局哦~
